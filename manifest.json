@@ -10,7 +10,7 @@
   "theme_color": "#fef3c7",
   "icons": [
     {
-      "src": "data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;rect width='100' height='100' fill='%239B2226'/&gt;&lt;text x='50' y='68' font-size='60' text-anchor='middle' fill='%23F3E8D0' font-family='Georgia,serif'&gt;S&lt;/text&gt;&lt;/svg&gt;",
+      "src": "data:image/svg+xml,&amp;lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&amp;gt;&amp;lt;rect width='100' height='100' fill='%239B2226'/&amp;gt;&amp;lt;text x='50' y='68' font-size='60' text-anchor='middle' fill='%23F3E8D0' font-family='Georgia,serif'&amp;gt;S&amp;lt;/text&amp;gt;&amp;lt;/svg&amp;gt;",
       "isSquare": false,
       "isPng": false,
       "isWebp": false,
@@ -26,7 +26,7 @@
   "lang": "pt",
   "categories": [
     "books",
-    "books &amp; reference",
+    "books &amp;amp; reference",
     "education"
   ]
 }
