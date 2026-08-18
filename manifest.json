@@ -1,0 +1,32 @@
+{
+  "background_color": "#f8fafc",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Suma Teológica",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Suma Teológica",
+  "start_url": "https://alessandroger.github.io/suma/",
+  "theme_color": "#fef3c7",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;rect width='100' height='100' fill='%239B2226'/&gt;&lt;text x='50' y='68' font-size='60' text-anchor='middle' fill='%23F3E8D0' font-family='Georgia,serif'&gt;S&lt;/text&gt;&lt;/svg&gt;",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "com.oficiodasleituras.suma",
+  "description": "Para o estudo da Suma Teológica de Santo Tomás de Aquino",
+  "lang": "pt",
+  "categories": [
+    "books",
+    "books &amp; reference",
+    "education"
+  ]
+}
